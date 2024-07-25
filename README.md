@@ -1,5 +1,5 @@
 # INTERNPROVE_CS_02
-Certainly! I'll provide you with a step-by-step guide and a Python script for a Password Complexity Checker that assesses the strength of a password based on various criteria. This tool will provide feedback to users on their password's strength.
+A step-by-step guide and a Python script for a Password Complexity Checker that assesses the strength of a password based on various criteria. This tool will provide feedback to users on their password's strength.
 
 Step-by-step guide:
 
